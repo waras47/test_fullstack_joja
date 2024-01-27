@@ -1,3 +1,3 @@
 how to use front end:
-  npm install
-  npm start
+  - npm install
+  - npm start
